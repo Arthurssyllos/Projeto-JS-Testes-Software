@@ -1,0 +1,14 @@
+{
+    "name": "meu-projeto",
+    "version": "1.0.0",
+    "description": "Aplicativo de lista de tarefas",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "devDependencies": {
+        "jest": "^29.7.0"
+    },
+    "author": "Arthur Syllos",
+    "license": "MIT"
+}
